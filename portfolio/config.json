@@ -1,9 +1,9 @@
 {
   "title": "Sergio Alex",
   "description": "Fotógrafo",
-  "logo": "/upload/logo.svg",
+  "logo": "/upload/logo-sergio-alex.png",
   "footer": "Sergio Alex",
-  "favicon": "favicon-32x32.png",
+  "favicon": "/upload/logo-sergio-alex.png",
   "navigation": [
     {
       "text": "Works",
